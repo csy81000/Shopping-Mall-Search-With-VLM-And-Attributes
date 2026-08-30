@@ -44,7 +44,6 @@
 ├── src/shopping_search/      # 인덱싱·검색·LLM 모듈
 ├── scripts/build_index.py    # 상품 인덱스 생성
 ├── tests/                    # 임베딩 결합 단위 테스트
-├── .env.example              # 환경변수 이름 예시
 ├── data/README.md            # 데이터 형식
 └── artifacts/                # 생성 인덱스(버전 관리 제외)
 ```
